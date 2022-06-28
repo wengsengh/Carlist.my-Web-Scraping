@@ -1,4 +1,4 @@
-# Carlist with scrapy
+# Carlist.my with scrapy
 
 Carlist is website for used cars listing for sale in Malaysia. <p>
 This project uses scrapy to scrape the car listing data from carlist. <p>
